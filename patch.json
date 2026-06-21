@@ -1,0 +1,37 @@
+{
+  "version": "20260621",
+  "enemies": {
+    "hj_bing":    { "drop": { "zhaoling": 0.03 } },
+    "shanzei":    { "drop": { "zhaoling": 0.04 } },
+    "hj_lishi":   { "drop": { "zhaoling": 0.06 } },
+    "liukou":     { "drop": { "zhaoling": 0.03 } },
+    "qiangdao":   { "drop": { "xingjun": 0.22, "zhaoling": 0.05 } },
+    "heishan":    { "drop": { "huoluo": 0.25, "zhaoling": 0.08 } },
+    "hj_yaoshi":  { "drop": { "xingjun": 0.18, "zhaoling": 0.08 } },
+    "wei_bing":   { "drop": { "zhaoling": 0.03 } },
+    "shu_bing":   { "drop": { "zhaoling": 0.03 } },
+    "wu_bing":    { "drop": { "zhaoling": 0.03 } },
+    "hj_qushuai": { "drop": { "zhaoling": 0.15 } },
+    "zhangjiao":  { "drop": { "zhaoling": 0.5  } },
+    "hj_zhang":   { "drop": { "zhaoling": 0.08 } },
+    "dong_bing":  { "drop": { "zhaoling": 0.04 } },
+    "dong_jiang": { "drop": { "zhaoling": 0.09 } },
+    "luan_bing":  { "drop": { "zhaoling": 0.04 } },
+    "luan_jiang": { "drop": { "zhaoling": 0.09 } },
+    "mei_qian":   { "drop": { "zhaoling": 0.10 } },
+    "chen_lan":   { "drop": { "zhaoling": 0.09 } },
+    "wang_dang":  { "drop": { "zhaoling": 0.10 } },
+    "liu_pi":     { "drop": { "zhaoling": 0.09 } },
+    "he_man":     { "drop": { "zhaoling": 0.10 } },
+    "huang_shao": { "drop": { "zhaoling": 0.09 } },
+    "yu_du":      { "drop": { "zhaoling": 0.11 } },
+    "sui_gu":     { "drop": { "zhaoling": 0.10 } },
+    "zhang_yan":  { "drop": { "zhaoling": 0.5  } },
+    "sun_zhong":  { "drop": { "zhaoling": 0.5  } },
+    "he_yi":      { "drop": { "zhaoling": 0.5  } },
+    "lei_xu":     { "drop": { "zhaoling": 0.5  } }
+  },
+  "soldierTypes": {
+    "baierbing": { "hp": 108, "atk": 22, "def": 14, "spd": 10, "cost": 310 }
+  }
+}
